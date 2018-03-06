@@ -1,0 +1,55 @@
+* 2018-03-04 book club notes
+  Intended to start off with something other than "Not believing everything people tell you 101" so Alison will get to engage a bit
+  She has the opposite problem, due to noticing being lied to during formative years
+
+  People have incentives to do what they say, but incentives pushing in other directions are usually stronger
+** Processing/checking multiple levels in a statement
+   Most statements don't make complete sense or aren't coherent
+   They don't have an actual truth value
+   Statement incoherence is not the main factor for statements not having a truth value
+   People make claims they don't really believe often
+   - they will concede the nontruth if asked
+   - but they will say them anyway
+   - idioms and aphorisms intended to convey information about the speaker but not be factual statements/claims
+   conversations as information exchange vs conversations for group cohesion or enjoyment
+** A giraffe is a banana
+   how you respond to this statement tells other people a lot about you
+   - accepting
+   - metaphor
+   - confused/questioning
+     This kind of response, given by daniel, says a lot about what kind of person he is
+     lex says he could predict the kind of shirt daniel was wearing based on it
+** aesthetic sorting
+   daniel's examples had a clear aesthetic but mostly lacked execution (not generally pretty)
+** role stuff
+   Michael said that daniel is explicitly interested in learning this/making updates, but implicitly interested in _not_ learning it
+   it's scary/threatening and makes you deal with bad things and consider making big changes (like dropping out of college)
+   Daniel should try to use a mask to get into a role other than his current one that believes everything people say
+   WWI vet, predatory vampires considered and rejected
+   Tried a Skitter mask, but didn't break his role because nobody else was in character
+   Tried doing things out of character
+   - watering plants
+   - cutting off some of lex's hair with a knife
+   - weed suggested
+*** playing each other
+    everyone tries to be the person to their right (very difficult, mostly you get caricatures at best, freezing or blatantly ooc at worst)
+    tried groups
+    - 3 people each being lex, nyx, and daniel
+    - talking about talking/communication
+    paying attention to convo + imitating people generatively is hard
+    responding to queries is easier during imitation than generating new stuff and interjecting
+    lex says he can't pay attention to people and do the heavy thinking/modeling/imitation either
+    olivia always has to pay attention to that stuff, internal narratives, etc. very expensive
+** getting into a mask
+   people talk/act differently around different people
+   but this doesn't mean they're using a mask
+   might just be using a thin translation layer
+** local application problem
+   daniel asked how he can stop being his role and start being his true self
+   - the very question shows that he doesn't quite get it
+   tendency:
+   - daniel is presented with a model of something in the context of a problem
+   - attempts to use the model to generate a solution
+   - the solution is technically valid but badly misses the point
+   the models here should be applied to lots of situations and problems, not just the one that prompted the model
+   they should be integrated into bigger social models
