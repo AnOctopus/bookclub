@@ -1,19 +1,19 @@
 * notes
 ** Honor
    There is some concern that Daniel is building his model of honor out of a fantasy aesthetic
-   Fantasy always has a single, clean ontology that never needs to change
-   "an inflexible set of legos"
+   - Fantasy always has a single, clean ontology that never needs to change
+   - "an inflexible set of legos"
    Daniel has a messed up concept of intent
    - decisions are made mostly before the level of being mental "words"
    what does he mean by "defect"
    - opposition to someone
    - an insufficient answer, because subtle manipulation for their own good isn't in opposition but may still be defection
    A lack of contractions in his speech implies a fantasy aesthetic
-   Most people who get the thing being taught use a liturgical aesthetic
-   - parallelism
-   - repetition
-   - it's about creating and caring about morality
-   when you're modeling stuff that you're confident in, it should sound like the Declaration of Independence
+   - Most people who get the thing being taught use a liturgical aesthetic
+     - parallelism
+     - repetition
+     - it's about creating and caring about morality
+   - when you're modeling stuff that you're confident in, it should sound like the Declaration of Independence
 ** Roles
    How do you use a new role, once you've created it?
    - keep thinking about what that role would do in situations you are in
@@ -27,16 +27,16 @@
    - A new role will change behavior much faster than just doing incremental updates
 ** Technical details
    Asking questions about technical details isn't useful until you have a higher level understanding
-   Need to not have a broken generator
-   The goal is longer term, broader change. Not just quick fixes
-   Don't use facts in isolation, build a model and use that to possibly fix problems
+   - Need to not have a broken generator
+   - The goal is longer term, broader change. Not just quick fixes
+   - Don't use facts in isolation, build a model and use that to possibly fix problems
    Brief aside: Why does jen pretend to be a bunch of memes instead of having a personality?
    - It's a commonly used mask
    - this line of discussion was not followed up on
 ** Stuff happens for reasons
    Sounds really obvious but it's important
-   Treating things as black boxes is not ideal
-   Don't allow magical unknowns if possible
+   - Treating things as black boxes is not ideal
+   - Don't allow magical unknowns if possible
    Question: People go into the ocean and take metal from sunken battleships to build X. What is X?
    - Answer (rot13): uvtu cerpvfvba enqvngvba zrnfherzrag rdhvczrag
    - Need to be able to try to think about stuff like this, even when you don't know details about stuff like material science
