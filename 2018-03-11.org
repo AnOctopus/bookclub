@@ -1,0 +1,81 @@
+* notes
+** Honor
+   There is some concern that Daniel is building his model of honor out of a fantasy aesthetic
+   Fantasy always has a single, clean ontology that never needs to change
+   "an inflexible set of legos"
+   Daniel has a messed up concept of intent
+   - decisions are made mostly before the level of being mental "words"
+   what does he mean by "defect"
+   - opposition to someone
+   - an insufficient answer, because subtle manipulation for their own good isn't in opposition but may still be defection
+   A lack of contractions in his speech implies a fantasy aesthetic
+   Most people who get the thing being taught use a liturgical aesthetic
+   - parallelism
+   - repetition
+   - it's about creating and caring about morality
+   when you're modeling stuff that you're confident in, it should sound like the Declaration of Independence
+** Roles
+   How do you use a new role, once you've created it?
+   - keep thinking about what that role would do in situations you are in
+   - you don't even have to do what that role would do, initially
+   Will the new role be pushed towards the same local maxima as the old one?
+   - No. It may be pushed towards other ones but it's hard to go back to complete denial from active noticing
+   Lots of people care about things but make big mistakes. Some just don't care.
+   - Actually not caring isn't that well correlated with people calling themselves "self-interested"
+   How will the new role avoid the old wrong view from tagging along?
+   - make updates
+   - A new role will change behavior much faster than just doing incremental updates
+** Technical details
+   Asking questions about technical details isn't useful until you have a higher level understanding
+   Need to not have a broken generator
+   The goal is longer term, broader change. Not just quick fixes
+   Don't use facts in isolation, build a model and use that to possibly fix problems
+   Brief aside: Why does jen pretend to be a bunch of memes instead of having a personality?
+   - It's a commonly used mask
+   - this line of discussion was not followed up on
+** Stuff happens for reasons
+   Sounds really obvious but it's important
+   Treating things as black boxes is not ideal
+   Don't allow magical unknowns if possible
+   Question: People go into the ocean and take metal from sunken battleships to build X. What is X?
+   - Answer (rot13): uvtu cerpvfvba enqvngvba zrnfherzrag rdhvczrag
+   - Need to be able to try to think about stuff like this, even when you don't know details about stuff like material science
+   - Notice the black boxes, don't let them stop other lines of reasoning
+   Mental illnesses that aren't straight up disabilities are trying to accomplish something
+   - if you think about what that reason is, that tells you about the thing that has those reasons (the mental illness)
+   There's a toolbox for modeling analagous to the toolbox of proof techniques
+   - power dynamics
+   - control loops (w/ bad settings)
+   - checking how global something is
+   - allocation problems
+   - symmetry arguments
+   - universal malice
+   Other toolboxes
+   - tools for making conversations productive
+   - introspetion of mental states
+   Just because you understand something, doesn't make it ok
+** Blame
+   blame is not that useful, just make predictions instead
+   compassion
+   - look at the reasons people have
+   validity
+   - is something "ok"?
+   - this is very salient for most people
+   - ex:
+     - arguments that are sound even if they are false (this is a misuse of terminology of logic)
+     - things that are plausible, even if they aren't true
+   - this is correlated with okayness
+   - which is a prerequisite for almost everything
+   - a just society would expect validation of people-traits
+     - ready to deal with stuff like disabilities (acomodations)
+** catgirl subbiness patterns
+   - cg/l want them to take care of you and take your mistakes away
+   - jess's thing
+   - (trying to) do the opposite of male socialization?
+     but most of us didn't really get male socialization
+** water
+   Daniel spilled a cup of water, getting some index cards wet
+   lex was annoyed, and then surprised at being annoyed
+   asked us why he was annoyed
+   ans: the cup being there was preventable, and the surprise at this annoyance was because it was obviously not worth the attention/effort to be sure to forsee/prevent spills
+   the rest of the discussion was on the discord server
